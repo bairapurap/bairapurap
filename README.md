@@ -1,4 +1,4 @@
- <h1 align="center">Hi there 👋 I'm Priyanka Bairapura</h1>
+<h1 align="center">Hi there 👋 I'm Priyanka Bairapura</h1>
 
 <p align="center">
   📊 Statistician | 🧠 AI & ML Enthusiast | 🇪🇺 Central Bank Data Specialist  
@@ -12,6 +12,8 @@
 - 📊 Experienced with **Power BI**, **Google Looker Studio**, and dynamic data visualization.
 - 🤖 Passionate about **Machine Learning**, **AI**, and automation in analytics.
 - 💡 Always exploring new ways to drive efficiency and actionable insights through data.
+- 📈 Strong background in **business development**, **hypothesis testing**, and **prediction modeling**.
+- 🧠 Interested in creating **API solutions**, **dashboards**, and collaborating on **Agile/Scrum** projects.
 
 ---
 
@@ -41,6 +43,8 @@
 - Building custom dashboards with Power BI & Looker Studio
 - Applying AI & ML in financial analytics
 - Collaborating on open-source data science projects
+- Integrating **Agile** and **Scrum** methodologies into project workflows
+- Developing **prediction models** and **hypothesis testing** strategies
 
 ---
 
